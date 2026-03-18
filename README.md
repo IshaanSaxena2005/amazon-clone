@@ -105,7 +105,7 @@ SRM Institute of Science and Technology
 GitHub:  
 https://github.com/IshaanSaxena2005
 
-Linkedin:
+Linkedin:  
 https://www.linkedin.com/in/ishaan-saxena2005/
 
 ---
