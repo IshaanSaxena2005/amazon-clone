@@ -63,8 +63,6 @@ amazon-clone/
     └── products.png
 ```
 
----
-
 ## ⚙️ How to Run
 
 1. Clone the repository
@@ -100,10 +98,8 @@ This project was built to practice:
 **Ishaan Saxena**
 
 B.Tech CSE (Big Data Analytics)  
-SRM Institute of Science and Technology
+SRM Institute of Science and Technology KTR
 
-GitHub:  
-https://github.com/IshaanSaxena2005
 
 Linkedin:  
 https://www.linkedin.com/in/ishaan-saxena2005/
